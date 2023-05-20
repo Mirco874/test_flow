@@ -1,0 +1,25 @@
+<annotation>
+	<folder>entrenam_ver2</folder>
+	<filename>pistolaa (50).jpg</filename>
+	<path>./pistolaa (50).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pistola</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>452</xmin>
+			<ymin>184</ymin>
+			<xmax>505</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>
